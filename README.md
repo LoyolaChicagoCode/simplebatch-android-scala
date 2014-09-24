@@ -7,7 +7,7 @@ simple text output. Its learning objectives are:
     - Use of Scala primarily as a "better Java" 
       (including mutable state where appropriate)
     - using the Simple Build Tool (sbt) for Scala in conjunction with 
-      [pfn's excellent plugin](https://github.com/pfn/android-sdk-plugin)
+      [pfn's well-maintained plugin](https://github.com/pfn/android-sdk-plugin)
     - using IntelliJ IDEA (optional)
 - Simple text output in Android
 - Basic design patterns
