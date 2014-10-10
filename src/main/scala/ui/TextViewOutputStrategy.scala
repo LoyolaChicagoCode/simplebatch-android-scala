@@ -5,6 +5,7 @@ import android.widget.TextView
 
 import model.OutputStrategy
 
+/** An output strategy that prints to an Android TextView widget. */
 class TextViewOutputStrategy(textView: TextView) extends OutputStrategy {
 
   override def print(text: String) {

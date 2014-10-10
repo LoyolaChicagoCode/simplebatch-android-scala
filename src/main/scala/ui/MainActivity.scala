@@ -8,9 +8,7 @@ import android.util.Log
 
 import model.ConcreteBatchTask
 
-/**
- * The main Android activity, which provides the required lifecycle methods.
- */
+/** The main Android activity, which provides the required lifecycle methods. */
 class MainActivity extends Activity with TypedActivity {
 
   private def TAG = "simplebatch-android-activity"
@@ -26,6 +24,8 @@ class MainActivity extends Activity with TypedActivity {
   override def onStart(): Unit = {
     super.onStart()
     Log.i(TAG, "onStart")
-    new ConcreteBatchTask(new TextViewOutputStrategy(findView(TR.textview))).run()
+    val outputStrategy = new TextViewOutputStrategy(findView(TR.textview))
+    val task = new ConcreteBatchTask(outputStrategy)
+    task.run()
   }
 }

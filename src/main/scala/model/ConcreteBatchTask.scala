@@ -1,5 +1,9 @@
 package edu.luc.etl.cs313.scala.simplebatch.model
 
+/**
+ * The concrete task of printing the first n squares using the
+ * provided output strategy.
+ */
 class ConcreteBatchTask(val output: OutputStrategy) extends AbstractBatchTask {
 
   def run(): Unit = {
