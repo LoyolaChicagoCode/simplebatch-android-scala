@@ -8,8 +8,6 @@ import android.Keys._
 
 android.Plugin.androidBuild
 
-instrumentSettings
-
 name := "simplebatch-android-scala"
 
 version := "0.1"
