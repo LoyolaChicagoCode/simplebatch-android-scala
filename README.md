@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.org/lucoodevcourse/simplebatch-android-scala.svg?branch=master)](https://travis-ci.org/lucoodevcourse/simplebatch-android-scala) 
-[![Coverage Status](https://img.shields.io/coveralls/lucoodevcourse/simplebatch-android-scala.svg)](https://coveralls.io/r/lucoodevcourse/simplebatch-android-scala) 
-[![Download](https://api.bintray.com/packages/lucoodevcourse/generic/simplebatch-android-scala/images/download.svg) ](https://bintray.com/lucoodevcourse/generic/simplebatch-android-scala/_latestVersion)
+[![Build Status](https://travis-ci.org/LoyolaChicagoCode/simplebatch-android-scala.svg?branch=master)](https://travis-ci.org/LoyolaChicagoCode/simplebatch-android-scala) 
+[![Coverage Status](https://img.shields.io/coveralls/LoyolaChicagoCode/simplebatch-android-scala.svg)](https://coveralls.io/r/LoyolaChicagoCode/simplebatch-android-scala) 
+[![Download](https://api.bintray.com/packages/loyolachicagocode/generic/simplebatch-android-scala/images/download.svg) ](https://bintray.com/loyolachicagocode/generic/simplebatch-android-scala/_latestVersion)
 
 # Learning Objectives
 
